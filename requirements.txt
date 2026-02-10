@@ -22,7 +22,7 @@ overrides==7.7.0
 pandocfilters==1.5.1
 prometheus_client==0.21.1
 propcache @ file:///croot/propcache_1732303986938/work
-protobuf==3.20.3
+protobuf==5.29.6
 pyasn1-modules==0.2.8
 pycparser==2.22
 PyJWT @ file:///croot/pyjwt_1736178889029/work
