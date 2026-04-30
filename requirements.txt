@@ -13,7 +13,7 @@ mistune==3.1.0
 ml_dtypes @ file:///croot/ml_dtypes_1734018890293/work
 multidict @ file:///croot/multidict_1730905498140/work
 nbclient @ file:///croot/nbclient_1698934205032/work
-notebook==7.3.2
+notebook==7.5.6
 notebook_shim==0.2.4
 numpy==1.23.5
 oauthlib @ file:///croot/oauthlib_1679489621486/work
